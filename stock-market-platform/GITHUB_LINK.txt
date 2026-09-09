@@ -1,0 +1,2 @@
+Stock Market Platform source code is available in this folder.
+Portfolio project link: https://github.com/sarveshtiwari0458-maker/Sarveshtiwari/tree/main/stock-market-platform
